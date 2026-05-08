@@ -1,7 +1,6 @@
 # Interview Transcript Summarizer
 
 This project was built as part of the AI Systems Intern take-home assignment for intervue.io.
-
 The application takes an interview transcript as input and generates a structured summary containing:
 - Topics Covered
 - Candidate Profile
@@ -71,7 +70,6 @@ The script generates:
 - Provider: Groq
 - Model: llama-3.1-8b-instant
 
----
 
 # Reflection
 
